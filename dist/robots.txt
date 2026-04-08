@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-certapro-painters-of-colorado-springs-co.dream-surge.com/sitemap-index.xml

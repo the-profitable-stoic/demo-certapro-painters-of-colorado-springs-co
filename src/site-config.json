@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "CertaPro Painters® of Colorado Springs, CO",
+    "phone": "+17194653118",
+    "category": "house painter",
+    "city": "Colorado Springs",
+    "state": "CO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Colorado Springs' Painting Pros",
+      "heroSubline": "Transforming homes with quality and precision. Trusted by your neighbors, guaranteed satisfaction.",
+      "aboutTitle": "Your Trusted Colorado Springs Painters",
+      "aboutText": [
+        "CertaPro Painters® of Colorado Springs, CO is more than just a painting company; we're a team of dedicated professionals committed to bringing your vision to life. Founded over a decade ago, we recognized the need for reliable, high-quality painting services in the Pikes Peak region. We've been beautifying homes and businesses ever since.",
+        "Our approach is simple: meticulous preparation, premium materials, and skilled craftsmanship. We believe in clear communication, transparent pricing, and exceeding expectations on every project. We treat every home as if it were our own, ensuring a flawless finish that lasts for years to come.",
+        "We're proud to be a part of the Colorado Springs community. We actively support local organizations and strive to create a positive impact beyond just paint. From revitalizing historic homes in Old Colorado City to adding curb appeal to new builds in Briargate, we're invested in the beauty and vibrancy of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Colorado Springs' climate and architectural styles."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only premium paints and materials for lasting beauty and protection against the elements."
+        },
+        {
+          "title": "Detailed Prep Work",
+          "description": "Proper preparation is key to a flawless finish, ensuring paint adheres properly and lasts longer."
+        },
+        {
+          "title": "Satisfaction Guarantee",
+          "description": "We stand behind our work. If you're not completely satisfied, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Get a Free Painting Estimate",
+      "ctaSubline": "Transform your space with CertaPro Painters® of Colorado Springs. Contact us today!"
+    },
+    "services": [
+      {
+        "slug": "exterior-house-painting",
+        "name": "Exterior House Painting",
+        "shortDescription": "Protect and beautify your home's exterior with our expert painting services.",
+        "description": "Colorado Springs' unique climate, with its intense sun, hail storms, and freezing winters, can take a toll on your home's exterior paint. Our exterior painting services are designed to combat these challenges, providing a durable and beautiful finish that will protect your investment for years to come. We start with a thorough inspection of your home's exterior, identifying any areas of damage or deterioration. We then meticulously prepare the surfaces, including power washing, scraping, and priming, to ensure proper adhesion. We use only premium exterior paints that are specifically formulated to withstand the harsh Colorado climate. Whether you're looking to refresh your home's existing color or completely transform its look, our skilled painters will deliver exceptional results. We pay close attention to detail, ensuring crisp lines and a smooth, even finish. We work on various siding types from stucco to wood.",
+        "process": [
+          "Step 1: Thorough power washing to remove dirt, mildew, and loose paint.",
+          "Step 2: Scraping and sanding to create a smooth surface.",
+          "Step 3: Priming to ensure proper paint adhesion and prevent moisture damage.",
+          "Step 4: Application of two coats of premium exterior paint."
+        ],
+        "benefits": [
+          "Increased curb appeal",
+          "Protection from the elements",
+          "Extended lifespan of your siding",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How long will the exterior painting last?",
+            "answer": "With proper preparation and high-quality paints, our exterior paint jobs typically last 7-10 years, depending on the specific conditions and the type of paint used."
+          },
+          {
+            "question": "Do you offer color consultations?",
+            "answer": "Yes, we offer complimentary color consultations to help you choose the perfect colors for your home's exterior. Our experts can provide guidance on color schemes that complement your home's architecture and landscaping."
+          },
+          {
+            "question": "Are you insured and licensed?",
+            "answer": "Yes, we are fully insured and licensed to operate in Colorado Springs and the surrounding areas. We prioritize the safety of our clients and our team."
+          }
+        ]
+      },
+      {
+        "slug": "interior-house-painting",
+        "name": "Interior House Painting",
+        "shortDescription": "Transform your interior spaces with our professional painting services.",
+        "description": "Whether you're looking to refresh a single room or repaint your entire home, our interior painting services can help you create the perfect atmosphere. We understand that your home is your sanctuary, and we treat it with the utmost care and respect. Our team of skilled painters will work closely with you to choose the right colors and finishes to achieve your desired look. We take meticulous care to protect your furniture, flooring, and belongings, and we thoroughly clean up after ourselves. We use only premium interior paints that are low-VOC and environmentally friendly. From preparing the surfaces to applying the final coat, we pay attention to every detail, ensuring a flawless and long-lasting finish. We handle everything from small touch-ups to complete interior transformations.",
+        "process": [
+          "Step 1: Careful preparation of surfaces, including patching holes and cracks.",
+          "Step 2: Thorough masking and covering of furniture and flooring.",
+          "Step 3: Priming to ensure proper paint adhesion and prevent stains from bleeding through.",
+          "Step 4: Application of two coats of premium interior paint."
+        ],
+        "benefits": [
+          "Enhanced home atmosphere",
+          "Increased property value",
+          "Protection of interior surfaces",
+          "Improved air quality (with low-VOC paints)"
+        ],
+        "faq": [
+          {
+            "question": "How long does an interior painting project take?",
+            "answer": "The duration of an interior painting project depends on the size and complexity of the job. We'll provide you with a detailed timeline before we begin, ensuring minimal disruption to your daily routine."
+          },
+          {
+            "question": "Do I need to move my furniture?",
+            "answer": "We can help you move your furniture, or you can move it yourself. We'll cover and protect any furniture that remains in the room."
+          },
+          {
+            "question": "What type of paint do you use?",
+            "answer": "We use only premium interior paints that are low-VOC and environmentally friendly. We can recommend the best type of paint for your specific needs and preferences."
+          }
+        ]
+      },
+      {
+        "slug": "cabinet-painting",
+        "name": "Cabinet Painting",
+        "shortDescription": "Give your kitchen or bathroom a fresh new look with our cabinet painting services.",
+        "description": "Instead of replacing your outdated or worn cabinets, consider cabinet painting as a cost-effective way to revitalize your kitchen or bathroom. Our cabinet painting services can transform your space without the expense and hassle of a full remodel. We begin by thoroughly cleaning and degreasing your cabinets. Then, we sand them to create a smooth surface for painting. We apply a high-quality primer to ensure proper adhesion and prevent chipping. Finally, we apply several coats of durable cabinet paint, leaving you with a beautiful and long-lasting finish. We can paint your cabinets any color you choose, and we offer a variety of finishes to suit your style. We can also replace your hardware for a complete cabinet makeover.",
+        "process": [
+          "Step 1: Removal of cabinet doors and hardware.",
+          "Step 2: Thorough cleaning and degreasing of cabinet surfaces.",
+          "Step 3: Sanding to create a smooth surface for painting.",
+          "Step 4: Application of high-quality primer and multiple coats of cabinet paint."
+        ],
+        "benefits": [
+          "Cost-effective alternative to cabinet replacement",
+          "Updated kitchen or bathroom appearance",
+          "Increased home value",
+          "Customizable color and finish options"
+        ],
+        "faq": [
+          {
+            "question": "How long does cabinet painting take?",
+            "answer": "Cabinet painting typically takes 3-5 days, depending on the size and complexity of the job. We'll provide you with a detailed timeline before we begin."
+          },
+          {
+            "question": "Can you paint laminate cabinets?",
+            "answer": "Yes, we can paint laminate cabinets. However, it requires special preparation and priming to ensure proper adhesion."
+          },
+          {
+            "question": "What type of paint do you use for cabinets?",
+            "answer": "We use a durable, cabinet-grade paint that is specifically formulated to withstand the wear and tear of everyday use."
+          }
+        ]
+      },
+      {
+        "slug": "deck-staining-sealing",
+        "name": "Deck Staining & Sealing",
+        "shortDescription": "Protect and beautify your deck with our professional staining and sealing services.",
+        "description": "Colorado Springs' weather can be harsh on decks. Sun, snow, and fluctuating temperatures can cause wood to crack, warp, and fade. Our deck staining and sealing services are designed to protect your deck from the elements and keep it looking its best. We start by thoroughly cleaning your deck to remove dirt, mildew, and old stain or sealant. We then sand the surface to create a smooth finish. We apply a high-quality stain or sealant that will protect your deck from water damage, UV rays, and mildew. We offer a variety of colors and finishes to choose from, so you can customize the look of your deck. Regular staining and sealing will extend the life of your deck and keep it looking beautiful for years to come.",
+        "process": [
+          "Step 1: Thorough cleaning to remove dirt, mildew, and debris.",
+          "Step 2: Sanding to create a smooth surface.",
+          "Step 3: Application of high-quality stain or sealant.",
+          "Step 4: Inspection to ensure even coverage and protection."
+        ],
+        "benefits": [
+          "Protection from water damage and UV rays",
+          "Extended deck lifespan",
+          "Enhanced deck appearance",
+          "Prevention of mildew and rot"
+        ],
+        "faq": [
+          {
+            "question": "How often should I stain or seal my deck?",
+            "answer": "We recommend staining or sealing your deck every 1-3 years, depending on the type of wood and the level of exposure to the elements."
+          },
+          {
+            "question": "What type of stain or sealant should I use?",
+            "answer": "We can help you choose the best stain or sealant for your specific deck and needs. We consider factors such as wood type, climate, and desired appearance."
+          },
+          {
+            "question": "Can you repair damaged deck boards?",
+            "answer": "Yes, we can repair damaged deck boards before staining or sealing. We can replace rotted or cracked boards to ensure a solid and safe deck."
+          }
+        ]
+      },
+      {
+        "slug": "drywall-repair",
+        "name": "Drywall Repair",
+        "shortDescription": "Restore your walls to their original condition with our expert drywall repair services.",
+        "description": "From small nail holes to large cracks and water damage, our drywall repair services can restore your walls to their original condition. We understand that damaged drywall can be unsightly and can even lead to further problems if not addressed promptly. Our skilled technicians will carefully assess the damage and determine the best course of action. We use high-quality materials and techniques to ensure a seamless and long-lasting repair. We can match any texture and paint color, so your repaired drywall will blend seamlessly with the surrounding walls. We handle everything from patching small holes to replacing entire sections of drywall.",
+        "process": [
+          "Step 1: Assessment of the damage and determination of the best repair method.",
+          "Step 2: Removal of damaged drywall and preparation of the area.",
+          "Step 3: Application of new drywall and taping of seams.",
+          "Step 4: Sanding and texturing to match the existing wall."
+        ],
+        "benefits": [
+          "Restored wall appearance",
+          "Prevention of further damage",
+          "Increased home value",
+          "Improved insulation and soundproofing"
+        ],
+        "faq": [
+          {
+            "question": "How long does drywall repair take?",
+            "answer": "Drywall repair can take anywhere from a few hours to a few days, depending on the size and complexity of the job. We'll provide you with a detailed timeline before we begin."
+          },
+          {
+            "question": "Can you match the texture of my walls?",
+            "answer": "Yes, we can match any texture, including orange peel, knockdown, and smooth. We have the tools and expertise to create a seamless repair."
+          },
+          {
+            "question": "Do you offer painting services after drywall repair?",
+            "answer": "Yes, we offer painting services to complete the drywall repair process. We can match any paint color to ensure a perfect finish."
+          }
+        ]
+      },
+      {
+        "slug": "popcorn-ceiling-removal",
+        "name": "Popcorn Ceiling Removal",
+        "shortDescription": "Update your home's look with our professional popcorn ceiling removal services.",
+        "description": "Popcorn ceilings were once a popular choice, but today they can make a home look dated. Removing a popcorn ceiling can instantly update the look of your home and increase its value. Our popcorn ceiling removal services are safe, efficient, and affordable. We take precautions to protect your furniture and belongings, and we properly dispose of the popcorn ceiling material. We then prepare the ceiling for painting, ensuring a smooth and flawless finish. Our experienced team will handle the entire process from start to finish, leaving you with a beautiful, modern ceiling.",
+        "process": [
+          "Step 1: Thorough preparation of the room, including covering furniture and flooring.",
+          "Step 2: Wetting and scraping of the popcorn ceiling material.",
+          "Step 3: Sanding to create a smooth surface.",
+          "Step 4: Priming and painting to achieve a flawless finish."
+        ],
+        "benefits": [
+          "Updated home appearance",
+          "Increased home value",
+          "Improved air quality (by removing potential allergens)",
+          "Modernized ceiling finish"
+        ],
+        "faq": [
+          {
+            "question": "Is popcorn ceiling removal messy?",
+            "answer": "Yes, popcorn ceiling removal can be messy. However, we take precautions to protect your furniture and belongings, and we thoroughly clean up after ourselves."
+          },
+          {
+            "question": "Is popcorn ceiling removal dangerous?",
+            "answer": "Popcorn ceilings installed before 1980 may contain asbestos, which is a hazardous material. We can test your popcorn ceiling for asbestos before removal."
+          },
+          {
+            "question": "How long does popcorn ceiling removal take?",
+            "answer": "Popcorn ceiling removal typically takes 1-3 days, depending on the size of the room and the complexity of the job."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-painting",
+        "name": "Commercial Painting",
+        "shortDescription": "Professional painting services for businesses in Colorado Springs.",
+        "description": "We offer comprehensive commercial painting services to businesses throughout Colorado Springs. From office buildings to retail spaces, we provide high-quality painting solutions that enhance your brand image and create a welcoming environment for your customers and employees. We understand the importance of minimizing disruption to your business operations, so we offer flexible scheduling and work efficiently to complete your project on time and within budget. Our experienced painters are skilled in working with a variety of surfaces and materials, and we use only premium commercial-grade paints for lasting durability and a professional finish. Whether you need a fresh coat of paint for your interior walls or a complete exterior makeover, we have the expertise and resources to get the job done right.",
+        "process": [
+          "Step 1: Consultation to understand your specific needs and requirements.",
+          "Step 2: Detailed project planning and scheduling.",
+          "Step 3: Surface preparation and protection of surrounding areas.",
+          "Step 4: Application of premium commercial-grade paint."
+        ],
+        "benefits": [
+          "Enhanced brand image",
+          "Improved employee morale",
+          "Increased customer appeal",
+          "Long-lasting durability"
+        ],
+        "faq": [
+          {
+            "question": "Do you work on weekends and evenings?",
+            "answer": "Yes, we offer flexible scheduling to minimize disruption to your business operations. We can work on weekends and evenings to accommodate your needs."
+          },
+          {
+            "question": "Are you licensed and insured for commercial projects?",
+            "answer": "Yes, we are fully licensed and insured to handle commercial painting projects in Colorado Springs."
+          },
+          {
+            "question": "Can you provide color consultations for commercial spaces?",
+            "answer": "Yes, we offer color consultations to help you choose the best colors for your commercial space. We consider factors such as your brand identity, target audience, and interior design."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Colorado Springs",
+        "slug": "colorado-springs-co",
+        "state": "CO",
+        "content": "CertaPro Painters® of Colorado Springs, CO is proud to serve the vibrant and growing community of Colorado Springs. As a locally owned and operated business, we understand the unique needs of homeowners and businesses in the Pikes Peak region. From historic homes in Old Colorado City to modern residences in Briargate, we have the expertise to handle any painting project, big or small.\n\nWe are committed to providing exceptional quality and service to our customers in Colorado Springs. Our team of experienced painters uses only premium paints and materials to ensure a beautiful and long-lasting finish. We also offer a wide range of services, including interior and exterior painting, drywall repair, cabinet refinishing, and more. Let CertaPro Painters® of Colorado Springs, CO transform your home or business with a fresh coat of paint.",
+        "localContext": "Colorado Springs is known for its stunning mountain views, outdoor recreation opportunities, and strong military presence, influencing the architectural styles and community values.",
+        "nearbyAreas": [
+          "Manitou Springs",
+          "Fountain",
+          "Monument"
+        ]
+      },
+      {
+        "city": "Monument",
+        "slug": "monument-co",
+        "state": "CO",
+        "content": "CertaPro Painters® of Colorado Springs, CO extends its professional painting services to the charming town of Monument. Nestled at the base of the Rampart Range, Monument offers a blend of small-town charm and natural beauty. We understand the importance of maintaining the aesthetic appeal of homes and businesses in this picturesque community.\n\nWhether you're looking to update the exterior of your home to withstand the Colorado weather or refresh the interior with a modern color palette, CertaPro Painters® of Colorado Springs, CO is here to help. We offer free color consultations and detailed estimates to ensure your project is completed to your satisfaction.",
+        "localContext": "Monument's location near the Air Force Academy and its strong sense of community contribute to its unique character and architectural preferences.",
+        "nearbyAreas": [
+          "Palmer Lake",
+          "Colorado Springs",
+          "Woodmoor"
+        ]
+      },
+      {
+        "city": "Fountain",
+        "slug": "fountain-co",
+        "state": "CO",
+        "content": "CertaPro Painters® of Colorado Springs, CO is dedicated to providing top-notch painting services to the growing community of Fountain. As one of the fastest-growing cities in Colorado, Fountain offers a diverse range of housing styles and commercial properties. We are committed to helping homeowners and businesses maintain and enhance the value of their properties with our professional painting services.\n\nFrom prepping surfaces to applying the final coat, our team of skilled painters pays attention to every detail. We use only high-quality paints and materials to ensure a durable and beautiful finish. Contact CertaPro Painters® of Colorado Springs, CO today for a free estimate.",
+        "localContext": "Fountain's rapid growth and proximity to military installations shape its residential and commercial development, requiring durable and aesthetically pleasing painting solutions.",
+        "nearbyAreas": [
+          "Colorado Springs",
+          "Security-Widefield",
+          "Peyton"
+        ]
+      },
+      {
+        "city": "Manitou Springs",
+        "slug": "manitou-springs-co",
+        "state": "CO",
+        "content": "CertaPro Painters® of Colorado Springs, CO is pleased to offer our painting services to the historic and charming town of Manitou Springs. Known for its natural mineral springs and unique architecture, Manitou Springs presents a unique opportunity for preserving the character of its homes and businesses. We understand the importance of using appropriate techniques and materials to maintain the integrity of these historic structures.\n\nWhether you own a Victorian-era home or a modern commercial property, CertaPro Painters® of Colorado Springs, CO has the expertise to handle your painting needs. We offer a wide range of services, including color matching, surface preparation, and custom painting solutions.",
+        "localContext": "Manitou Springs' historic architecture and artistic community influence the demand for specialized painting services that preserve the town's unique character.",
+        "nearbyAreas": [
+          "Colorado Springs",
+          "Cascade",
+          "Green Mountain Falls"
+        ]
+      },
+      {
+        "city": "Security-Widefield",
+        "slug": "security-widefield-co",
+        "state": "CO",
+        "content": "CertaPro Painters® of Colorado Springs, CO proudly serves the communities of Security and Widefield with our expert painting services. These neighboring communities offer a mix of residential neighborhoods and commercial areas, reflecting the diverse needs of its residents. We are committed to providing affordable and reliable painting solutions to homeowners and businesses in Security-Widefield.\n\nOur team of professional painters is experienced in handling a variety of painting projects, from interior renovations to exterior makeovers. We use only high-quality paints and materials to ensure a long-lasting and beautiful finish. Contact CertaPro Painters® of Colorado Springs, CO today for a free consultation.",
+        "localContext": "Security-Widefield's residential focus and proximity to military bases create a demand for cost-effective and durable painting services that enhance property values.",
+        "nearbyAreas": [
+          "Fountain",
+          "Colorado Springs",
+          "Stratmoor"
+        ]
+      },
+      {
+        "city": "Palmer Lake",
+        "slug": "palmer-lake-co",
+        "state": "CO",
+        "content": "CertaPro Painters® of Colorado Springs, CO extends its professional painting services to the scenic town of Palmer Lake. Located near a beautiful lake and surrounded by natural beauty, Palmer Lake offers a tranquil escape from the city. We understand the importance of maintaining the aesthetic appeal of homes and businesses in this serene community.\n\nWhether you're looking to update the exterior of your home to withstand the Colorado weather or refresh the interior with a modern color palette, CertaPro Painters® of Colorado Springs, CO is here to help. We offer free color consultations and detailed estimates to ensure your project is completed to your satisfaction.",
+        "localContext": "Palmer Lake's natural beauty and emphasis on outdoor recreation drive the need for painting services that complement the town's aesthetic and withstand the elements.",
+        "nearbyAreas": [
+          "Monument",
+          "Woodmoor",
+          "Colorado Springs"
+        ]
+      },
+      {
+        "city": "Woodmoor",
+        "slug": "woodmoor-co",
+        "state": "CO",
+        "content": "CertaPro Painters® of Colorado Springs, CO is pleased to offer painting services to the upscale community of Woodmoor. Known for its beautiful homes and well-maintained landscaping, Woodmoor requires a high level of attention to detail when it comes to painting services. We are committed to providing exceptional quality and service to homeowners in Woodmoor.\n\nOur team of experienced painters uses only premium paints and materials to ensure a beautiful and long-lasting finish. We also offer a wide range of services, including interior and exterior painting, drywall repair, and cabinet refinishing.",
+        "localContext": "Woodmoor's affluent demographic and emphasis on property value create a demand for high-quality painting services that enhance curb appeal and protect investments.",
+        "nearbyAreas": [
+          "Monument",
+          "Palmer Lake",
+          "Colorado Springs"
+        ]
+      },
+      {
+        "city": "Black Forest",
+        "slug": "black-forest-co",
+        "state": "CO",
+        "content": "CertaPro Painters® of Colorado Springs, CO is proud to bring our painting expertise to the Black Forest area. Known for its dense ponderosa pine forest and expansive properties, Black Forest requires painters who understand the unique challenges of the environment. We're equipped to handle large-scale projects and ensure the longevity of our work, even in the face of Colorado's weather.\n\nFrom staining fences to painting entire homes, our team is ready to assist. We prioritize using quality products that can withstand the elements, ensuring your home looks its best for years to come. Contact us today for a free quote and let us help you transform your property!",
+        "localContext": "Black Forest's rural character and sprawling properties require painting services that can handle large-scale projects and withstand the harsh Colorado climate.",
+        "nearbyAreas": [
+          "Colorado Springs",
+          "Peyton",
+          "Falcon"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Interior Painting",
+        "text": "CertaPro Painters of Colorado Springs did an amazing job painting the interior of my home. The crew was professional, efficient, and paid great attention to detail. They prepped everything meticulously and the final result is stunning. I highly recommend them!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Exterior Painting",
+        "text": "We hired CertaPro to paint our house in Broadmoor. They did a good job overall, and the house looks great. There were a couple of minor touch-ups needed, but they were quick to address them. Good value for the price.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Cabinet Painting",
+        "text": "I was hesitant to paint my kitchen cabinets, but CertaPro did a fantastic job! They look brand new, and the color is perfect. The painters were very careful and respectful of my home. Definitely worth the investment!",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Drywall Repair",
+        "text": "We had some water damage in our living room, and the drywall was a mess. CertaPro's team repaired it seamlessly. You can't even tell there was ever any damage. Excellent work!",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Linda B.",
+        "rating": 4,
+        "service": "Deck Staining",
+        "text": "CertaPro stained our deck, and it looks fantastic. The color is rich, and the stain seems to be holding up well against the Colorado sun. The crew was professional and easy to work with. Would use them again.",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Popcorn Ceiling Removal",
+        "text": "I was nervous about removing the popcorn ceiling in my house, but CertaPro made the process easy and stress-free. They were professional, clean, and efficient. The ceiling looks great, and I'm so glad I had it done.",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "CertaPro Painters Colorado Springs",
+        "description": "Trusted house painters in Colorado Springs, CO. Interior, exterior, cabinet painting & more. Free estimates!"
+      },
+      "about": {
+        "title": "About CertaPro Painters - Colorado Springs",
+        "description": "Learn about our Colorado Springs painting company. Quality, local experts, customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "Painting Services | Colorado Springs, CO",
+        "description": "Expert painting services in Colorado Springs: interior, exterior, cabinets, drywall repair. Get a free quote today!"
+      },
+      "contact": {
+        "title": "Contact CertaPro Painters - Colorado Springs",
+        "description": "Contact us for a free painting estimate in Colorado Springs. Call +17194653118 or fill out our online form."
+      },
+      "reviews": {
+        "title": "CertaPro Painters Colorado Springs Reviews",
+        "description": "Read reviews from our satisfied customers in Colorado Springs. See why we're the trusted choice for painting."
+      },
+      "service-areas": {
+        "title": "Service Areas - CertaPro Painters",
+        "description": "CertaPro Painters of Colorado Springs serves all surrounding areas. Find out if we service your city."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "exterior-house-painting": "/images/service-exterior-house-painting.webp",
+      "interior-house-painting": "/images/service-interior-house-painting.webp",
+      "cabinet-painting": "/images/service-cabinet-painting.webp",
+      "deck-staining-sealing": "/images/service-deck-staining-sealing.webp",
+      "drywall-repair": "/images/service-drywall-repair.webp",
+      "popcorn-ceiling-removal": "/images/service-popcorn-ceiling-removal.webp",
+      "commercial-painting": "/images/service-commercial-painting.webp"
+    },
+    "servicesResponsive": {
+      "exterior-house-painting": {
+        "src": "/images/service-exterior-house-painting.webp",
+        "srcset": "/images/service-exterior-house-painting-400w.webp 400w, /images/service-exterior-house-painting-800w.webp 800w, /images/service-exterior-house-painting-1200w.webp 1200w, /images/service-exterior-house-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "interior-house-painting": {
+        "src": "/images/service-interior-house-painting.webp",
+        "srcset": "/images/service-interior-house-painting-400w.webp 400w, /images/service-interior-house-painting-800w.webp 800w, /images/service-interior-house-painting-1200w.webp 1200w, /images/service-interior-house-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "cabinet-painting": {
+        "src": "/images/service-cabinet-painting.webp",
+        "srcset": "/images/service-cabinet-painting-400w.webp 400w, /images/service-cabinet-painting-800w.webp 800w, /images/service-cabinet-painting-1200w.webp 1200w, /images/service-cabinet-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-staining-sealing": {
+        "src": "/images/service-deck-staining-sealing.webp",
+        "srcset": "/images/service-deck-staining-sealing-400w.webp 400w, /images/service-deck-staining-sealing-800w.webp 800w, /images/service-deck-staining-sealing-1200w.webp 1200w, /images/service-deck-staining-sealing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drywall-repair": {
+        "src": "/images/service-drywall-repair.webp",
+        "srcset": "/images/service-drywall-repair-400w.webp 400w, /images/service-drywall-repair-800w.webp 800w, /images/service-drywall-repair-1200w.webp 1200w, /images/service-drywall-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "popcorn-ceiling-removal": {
+        "src": "/images/service-popcorn-ceiling-removal.webp",
+        "srcset": "/images/service-popcorn-ceiling-removal-400w.webp 400w, /images/service-popcorn-ceiling-removal-800w.webp 800w, /images/service-popcorn-ceiling-removal-1200w.webp 1200w, /images/service-popcorn-ceiling-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-painting": {
+        "src": "/images/service-commercial-painting.webp",
+        "srcset": "/images/service-commercial-painting-400w.webp 400w, /images/service-commercial-painting-800w.webp 800w, /images/service-commercial-painting-1200w.webp 1200w, /images/service-commercial-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
